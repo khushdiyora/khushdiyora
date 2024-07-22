@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="logo" width="100" height="auto" src="assets/khush.png" <h1  style="color: white;">Khush Diyora</h1> />
+    <img alt="logo" width="100" height="auto" src="assets/khush.png" /> <h1 align="center"style="color: white;">Khush Diyora </h1> 
 </p>
 
 <h3 align="center" style="color: white;">Computer Engineer</h3>
