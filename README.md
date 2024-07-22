@@ -1,5 +1,5 @@
 <a href="#" target="_blank">
-        <img align="center" src="assets/python2.png" alt="python" height="50" width="100" />
+        <img align="center" src="assets/khush.png" alt="python" height="50" width="100" />
     </a><h1 align="center" style="color: white;">Khush Diyora</h1>
 <h3 align="center" style="color: white;">Computer Engineer</h3>
 <p align="center">
