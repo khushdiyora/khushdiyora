@@ -1,6 +1,9 @@
-<a href="https://github.com/khushdiyora" align="center">
-    <img alt="logo" width="100" height="auto" src="assets/khush.png" /> <h1 align="center"style="color: white;">Khush Diyora </h1> 
-</a>
+<p align="center">
+    <a href="https://github.com/khushdiyora" target="_blank">
+        <img alt="logo" width="100" height="auto" src="assets/khush.png" />
+    </a>
+</p>
+<h1 align="center" style="color: white;">Khush Diyora</h1>
 
 <h3 align="center" style="color: white;">Computer Engineer</h3>
 <p align="center">
