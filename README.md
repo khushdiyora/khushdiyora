@@ -1,6 +1,7 @@
-<a href="#" target="_blank">
-        <img align="center" src="assets/khush.png" alt="python" height="50" width="100" /><h1 align="center" style="color: white;">Khush Diyora</h1>
-    </a>
+<p align="center">
+    <img alt="Coding" width="300" height="auto" src="assets/coding1.gif"/><h1 align="center" style="color: white;">Khush Diyora</h1>
+</p>
+
 <h3 align="center" style="color: white;">Computer Engineer</h3>
 <p align="center">
     <img alt="Coding" width="300" height="auto" src="assets/coding1.gif"/>
