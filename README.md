@@ -48,7 +48,8 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khushdiyora&theme=transparent&utcOffset=5.30" height="180em" alt="Productive Time" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khushdiyora&theme=transparent" height="180em" alt="Profile Details" />
 </div>
-
+<br>
+<br>
 <p align="center">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="Random Dev Quote" />
 </p>
