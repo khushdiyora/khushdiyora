@@ -7,7 +7,9 @@
 
 <h3 align="center" style="color: white;">Computer Engineer</h3>
 <p align="center">
-    <img alt="Coding" width="300" height="auto" src="assets/coding1.gif" style="border-radius: 15px; border: 2px solid #000;" />
+    <a href="#" target="_blank">
+        <img alt="Coding" width="300" height="auto" src="assets/coding1.gif" style="border-radius: 15px; border: 2px solid #000;" />
+    </a>
 </p>
 
 <h3 align="center" style="color: white;">My Interests</h3>
