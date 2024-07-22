@@ -29,7 +29,7 @@
         <img src="assets/php-icon-2048x2048-zjxns1zh.png" alt="php" height="50" width="50" style="border-radius: 10px;" />
     </a>
     <a href="#" target="_blank">
-        <img src="assets/Sql_data_base_with_logo.png" alt="php" height="50" width="50" style="border-radius: 10px;" />
+        <img src="assets/Sql_data_base_with_logo.png" alt="php" height="50" width="100" style="border-radius: 10px;" />
     </a>
 </p>
 
