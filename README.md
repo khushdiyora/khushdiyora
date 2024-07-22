@@ -48,4 +48,5 @@
 </p>
 <br>
 
-![Khush diyora](https://github.com/user-attachments/assets/967d2775-ab1c-437c-af9a-88852b65c52c)
+![Khush diyora](https://github.com/user-attachments/assets/bdcbaae8-8fe2-43cf-8047-4cec63f94f98)
+
