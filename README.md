@@ -49,7 +49,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khushdiyora&theme=transparent&exclude=CSS,Jupyter%20Notebook" height="180em" alt="Most Commit Languages" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khushdiyora&theme=transparent&exclude=CSS,Jupyter%20Notebook" height="180em" alt="Repos Per Language" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khushdiyora&theme=transparent&utcOffset=5.30" height="180em" alt="Productive Time" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khushdiyora&theme=transparent" height="180em" alt="Profile Details" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khushdiyora&theme=transparent" height="180em" alt="Profile Details" />
 </div>
 <br>
 <br>
