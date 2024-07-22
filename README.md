@@ -7,8 +7,9 @@
 
 <h3 align="center" style="color: white;">Computer Engineer</h3>
 <p align="center">
-    <img alt="Coding" width="300" height="auto" src="assets/coding1.gif"/>
+    <img alt="Coding" width="300" height="auto" src="assets/coding1.gif" style="border-radius: 15px; border: 2px solid #000;" />
 </p>
+
 <h3 align="center" style="color: white;">My Interests</h3>
 <p align="center" style="color: white;">
     <img src="https://readme-typing-svg.demolab.com/?lines=Artificial%20Intelligence;Machine%20Learning;Deep%20Learning;Data%20Science;Computer%20Vision&font=Fira%20Code&center=true&width=380&height=50&duration=1000&pause=1000&color=#6A5ACD" alt="Interests">
