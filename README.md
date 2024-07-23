@@ -72,7 +72,9 @@
         <img src="assets/linkedin.png" alt="LinkedIn" height="30" width="30" style="border-radius: 50%;" />
     </a>
 </p>
-
+<p align="center"> 
+Visitor Count<br>
+  <img src="https://profile-counter.glitch.me/khushdiyora/count.svg"/>
 <p align="center">
     <img src="https://github.com/user-attachments/assets/bdcbaae8-8fe2-43cf-8047-4cec63f94f98" alt="Additional Image" />
 </p>
