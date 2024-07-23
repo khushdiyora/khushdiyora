@@ -72,6 +72,8 @@
         <img src="assets/linkedin.png" alt="LinkedIn" height="30" width="30" style="border-radius: 50%;" />
     </a>
 </p>
+
+<br>
 <p align="center"> 
 Visitor Count<br>
     <br>
