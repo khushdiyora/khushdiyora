@@ -19,7 +19,7 @@
 
 
   <a href="https://github.com/khushdiyora">
-    <img src="contributions.svg" />
+    <img src="assets/contributions.svg" />
   </a>
 
 
