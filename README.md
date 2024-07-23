@@ -74,6 +74,7 @@
 </p>
 <p align="center"> 
 Visitor Count<br>
+    <br>
   <img src="https://profile-counter.glitch.me/khushdiyora/count.svg"/>
 <p align="center">
     <img src="https://github.com/user-attachments/assets/bdcbaae8-8fe2-43cf-8047-4cec63f94f98" alt="Additional Image" />
