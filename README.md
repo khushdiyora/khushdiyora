@@ -47,7 +47,7 @@
       <br>MySQL
     </td>
     <td align="center" width="96">
-      <img src="assets/nodejs.png" width="48" height="48" alt="Node.js" />
+      <img src="assets/node-js.png" width="48" height="48" alt="Node.js" />
       <br>Node.js
     </td>
     <td align="center" width="96">
@@ -55,13 +55,13 @@
       <br>SCSS
     </td>
     <td align="center" width="96">
-      <img src="assets/css.png" width="48" height="48" alt="CSS" />
+      <img src="assets/csss.png" width="48" height="48" alt="CSS" />
       <br>CSS
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="assets/html.png" width="48" height="48" alt="HTML" />
+      <img src="assets/html5.png" width="48" height="48" alt="HTML" />
       <br>HTML
     </td>
     <td align="center" width="96">
@@ -69,7 +69,7 @@
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-      <img src="assets/js.png" width="48" height="48" alt="JavaScript" />
+      <img src="assets/javascript.png" width="48" height="48" alt="JavaScript" />
       <br>JavaScript
     </td>
     <td align="center" width="96">
