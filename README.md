@@ -77,16 +77,16 @@
       <br>Java
     </td>
     <td align="center" width="96">
-      <img src="assets/AI-ML.png" width="48" height="48" alt="Convex" />
+      <img src="assets/AI-ML.png" width="48" height="48" alt="AI-ML" />
       <br>AI-ML
     </td>
     <td align="center" width="96">
-      <img src="assets/aws.png" width="48" height="48" alt="Appwrite" />
+      <img src="assets/aws.png" width="48" height="48" alt="AWS" />
       <br>AWS Basics
     </td>
     <td align="center" width="96">
-      <img src="assets/python.png" width="48" height="48" alt="AWS" />
-      <br>AWS-Basics
+      <img src="assets/django.png" width="48" height="48" alt="DJango" />
+      <br>django
     </td>
   </tr>
 </table>
