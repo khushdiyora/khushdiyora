@@ -73,7 +73,7 @@
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <img src="assets/java.png" width="48" height="48" alt="Java" />
+      <img src="assets/javaa.png" width="48" height="48" alt="Java" />
       <br>Java
     </td>
     <td align="center" width="96">
