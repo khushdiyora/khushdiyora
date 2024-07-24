@@ -27,6 +27,7 @@
 <p align="center" style="color: white;">Currently learning - Artificial Intelligence and Machine Learning</p>
 
 <h3 align="center" style="color: white;">Languages in which I work</h3>
+<br>
 <div align="center">
    <table>
   <tr>
