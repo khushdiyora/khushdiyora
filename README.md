@@ -27,7 +27,7 @@
 <p align="center" style="color: white;">Currently learning - Artificial Intelligence and Machine Learning</p>
 
 <h3 align="center" style="color: white;">Languages in which I work</h3>
-<p align="center">
+<div align="center">
    <table>
   <tr>
     <td align="center" width="96">
@@ -91,7 +91,7 @@
   </tr>
 </table>
 
-</p>
+</div>
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khushdiyora&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=transparent&hide=html,css,pug" alt="Top Languages" />
