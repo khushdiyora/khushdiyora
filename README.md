@@ -39,7 +39,7 @@
       <br>PHP
     </td>
     <td align="center" width="96">
-      <img src="assets/Sql_data_base_with_logo.png" width="48" height="48" alt="SQL" />
+      <img src="assets/Sql_data_base_with_logo.png" width="48" height="60" alt="SQL" />
       <br>SQL
     </td>
     <td align="center" width="96">
@@ -47,7 +47,7 @@
       <br>MySQL
     </td>
     <td align="center" width="96">
-      <img src="assets/nodejs.png" width="48" height="70" alt="Node.js" />
+      <img src="assets/nodejs.png" width="48" height="48" alt="Node.js" />
       <br>Node.js
     </td>
     <td align="center" width="96">
