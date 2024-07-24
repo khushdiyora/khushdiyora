@@ -31,6 +31,7 @@
 <div align="center">
    <table>
   <tr>
+        <a href="#" target="_blank">
     <td align="center" width="96">
       <img src="assets/python.png" width="48" height="48" alt="Python" />
       <br>Python
@@ -40,7 +41,7 @@
       <br>PHP
     </td>
     <td align="center" width="96">
-      <img src="assets/Sql_data_base_with_logo.png" width="48" height="60" alt="SQL" />
+      <img src="assets/Sql_data_base_with_logo.png" width="48" height="60" alt="PL/SQL" />
       <br>SQL
     </td>
     <td align="center" width="96">
@@ -91,7 +92,7 @@
     </td>
   </tr>
 </table>
-
+        </a>
 </div>
 
 <p align="center">
