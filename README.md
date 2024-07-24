@@ -47,7 +47,7 @@
       <br>MySQL
     </td>
     <td align="center" width="96">
-      <img src="assets/nodejs.png" width="48" height="48" alt="Node.js" />
+      <img src="assets/nodejs.png" width="48" height="70" alt="Node.js" />
       <br>Node.js
     </td>
     <td align="center" width="96">
