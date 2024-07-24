@@ -31,61 +31,61 @@
    <table>
   <tr>
     <td align="center" width="96">
-      <img src="assets/python.png" width="48" height="48" alt="TypeScript" />
+      <img src="assets/python.png" width="48" height="48" alt="Python" />
       <br>Python
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
+      <img src="assets/php-icon-2048x2048-zjxns1zh.png" width="48" height="48" alt="PHP" />
+      <br>PHP
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
-      <br>React
+      <img src="assets/Sql_data_base_with_logo.png" width="48" height="48" alt="SQL" />
+      <br>SQL
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
+      <img src="assets/mysql.png" width="48" height="48" alt="MySQL" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="assets/nodejs.png" width="48" height="48" alt="Node.js" />
       <br>Node.js
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" />
-      <br>Next.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
+      <img src="assets/python.png" width="48" height="48" alt="MongoDB" />
       <br>MongoDB
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
+      <img src="assets/python.png" width="48" height="48" alt="MySQL" />
       <br>MySQL
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express.js" />
+      <img src="assets/python.png" width="48" height="48" alt="Express.js" />
       <br>Express.js
     </td>
     <td align="center" width="96">
-      <img src="https://th.bing.com/th/id/OIP.beVjRiHFNXgyqzqo1Ra27wAAAA?rs=1&pid=ImgDetMain" width="48" height="48" alt="shadcn ui" />
+      <img src="assets/python.png" width="48" height="48" alt="shadcn ui" />
       <br>shadcn ui
     </td>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/768px-Tailwind_CSS_Logo.svg.png?20230715030042" width="48" height="48" alt="Tailwind CSS" />
+      <img src="assets/python.png" width="48" height="48" alt="Tailwind CSS" />
       <br>Tailwind CSS
     </td>
     <td align="center" width="96">
-      <img src="https://worksolutions.ru/uploads/99999999999999999_1_2a116db3f4.png" width="48" height="48" alt="React Flow" />
+      <img src="assets/python.png" width="48" height="48" alt="React Flow" />
       <br>React Flow
     </td>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Convex_Computer_logo.svg/1200px-Convex_Computer_logo.svg.png?20220109061558" width="48" height="48" alt="Convex" />
+      <img src="assets/python.png" width="48" height="48" alt="Convex" />
       <br>Convex
     </td>
     <td align="center" width="96">
-      <img src="https://appwrite.io/assets/logotype/black.svg" width="48" height="48" alt="Appwrite" />
+      <img src="assets/python.png" width="48" height="48" alt="Appwrite" />
       <br>Appwrite
     </td>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/768px-Amazon_Web_Services_Logo.svg.png?20170912170050" width="48" height="48" alt="AWS" />
+      <img src="assets/python.png" width="48" height="48" alt="AWS" />
       <br>AWS Basics
     </td>
   </tr>
