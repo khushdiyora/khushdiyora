@@ -26,17 +26,71 @@
 <p align="center" style="color: white;">Currently working on - Private Projects</p>
 <p align="center" style="color: white;">Currently learning - Artificial Intelligence and Machine Learning</p>
 
-<h3 align="center" style="color: white;">Most Wanted Languages</h3>
+<h3 align="center" style="color: white;">Languages in which I work</h3>
 <p align="center">
-    <a href="#" target="_blank">
-        <img src="assets/python.png" alt="python" height="65" width="65" style="border-radius: 10px;" />
-    </a>
-    <a href="#" target="_blank">
-        <img src="assets/php-icon-2048x2048-zjxns1zh.png" alt="php" height="65" width="65" style="border-radius: 10px;" />
-    </a>
-    <a href="#" target="_blank">
-        <img src="assets/Sql_data_base_with_logo.png" alt="php" height="65" width="130" style="border-radius: 10px;" />
-    </a>
+   <table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" />
+      <br>Next.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
+      <br>MySQL
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express.js" />
+      <br>Express.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://th.bing.com/th/id/OIP.beVjRiHFNXgyqzqo1Ra27wAAAA?rs=1&pid=ImgDetMain" width="48" height="48" alt="shadcn ui" />
+      <br>shadcn ui
+    </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/768px-Tailwind_CSS_Logo.svg.png?20230715030042" width="48" height="48" alt="Tailwind CSS" />
+      <br>Tailwind CSS
+    </td>
+    <td align="center" width="96">
+      <img src="https://worksolutions.ru/uploads/99999999999999999_1_2a116db3f4.png" width="48" height="48" alt="React Flow" />
+      <br>React Flow
+    </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Convex_Computer_logo.svg/1200px-Convex_Computer_logo.svg.png?20220109061558" width="48" height="48" alt="Convex" />
+      <br>Convex
+    </td>
+    <td align="center" width="96">
+      <img src="https://appwrite.io/assets/logotype/black.svg" width="48" height="48" alt="Appwrite" />
+      <br>Appwrite
+    </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/768px-Amazon_Web_Services_Logo.svg.png?20170912170050" width="48" height="48" alt="AWS" />
+      <br>AWS Basics
+    </td>
+  </tr>
+</table>
+
 </p>
 
 <p align="center">
