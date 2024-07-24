@@ -51,12 +51,12 @@
       <br>Node.js
     </td>
     <td align="center" width="96">
-      <img src="assets/python.png" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
+      <img src="assets/scss.png" width="48" height="48" alt="SCSS" />
+      <br>SCSS
     </td>
     <td align="center" width="96">
-      <img src="assets/python.png" width="48" height="48" alt="MySQL" />
-      <br>MySQL
+      <img src="assets/css.png" width="48" height="48" alt="CSS" />
+      <br>CSS
     </td>
   </tr>
   <tr>
