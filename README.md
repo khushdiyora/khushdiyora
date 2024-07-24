@@ -32,43 +32,43 @@
    <table>
   <tr>
     <td align="center" width="96">
-      <a href="https://github.com/khushdiyora" target="_blank">
+      <a href="#" target="_blank">
         <img src="assets/python.png" width="48" height="48" alt="Python" />
         <br>Python
       </a>
     </td>
     <td align="center" width="96">
-      <a href="https://github.com/khushdiyora" target="_blank">
+      <a href="#" target="_blank">
         <img src="assets/php-icon-2048x2048-zjxns1zh.png" width="48" height="48" alt="PHP" />
         <br>PHP
       </a>
     </td>
     <td align="center" width="96">
-      <a href="https://github.com/khushdiyora" target="_blank">
+      <a href="#" target="_blank">
         <img src="assets/Sql_data_base_with_logo.png" width="48" height="60" alt="PL/SQL" />
         <br>SQL
       </a>
     </td>
     <td align="center" width="96">
-      <a href="https://github.com/khushdiyora" target="_blank">
+      <a href="#" target="_blank">
         <img src="assets/mysql.png" width="48" height="48" alt="MySQL" />
         <br>MySQL
       </a>
     </td>
     <td align="center" width="96">
-      <a href="https://github.com/khushdiyora" target="_blank">
+      <a href="#" target="_blank">
         <img src="assets/node-js.png" width="48" height="48" alt="Node.js" />
         <br>Node.js
       </a>
     </td>
     <td align="center" width="96">
-      <a href="https://github.com/khushdiyora" target="_blank">
+      <a href="#" target="_blank">
         <img src="assets/scss.png" width="48" height="48" alt="SCSS" />
         <br>SCSS
       </a>
     </td>
     <td align="center" width="96">
-      <a href="https://github.com/khushdiyora" target="_blank">
+      <a href="#" target="_blank">
         <img src="assets/csss.png" width="48" height="48" alt="CSS" />
         <br>CSS
       </a>
@@ -76,43 +76,43 @@
   </tr>
   <tr>
     <td align="center" width="96">
-      <a href="https://github.com/khushdiyora" target="_blank">
+      <a href="#" target="_blank">
         <img src="assets/html5.png" width="48" height="48" alt="HTML" />
         <br>HTML
       </a>
     </td>
     <td align="center" width="96">
-      <a href="https://github.com/khushdiyora" target="_blank">
+      <a href="#" target="_blank">
         <img src="assets/bootstrap.png" width="48" height="48" alt="Bootstrap" />
         <br>Bootstrap
       </a>
     </td>
     <td align="center" width="96">
-      <a href="https://github.com/khushdiyora" target="_blank">
+      <a href="#" target="_blank">
         <img src="assets/javascript.png" width="48" height="48" alt="JavaScript" />
         <br>JavaScript
       </a>
     </td>
     <td align="center" width="96">
-      <a href="https://github.com/khushdiyora" target="_blank">
+      <a href="#" target="_blank">
         <img src="assets/javaa.png" width="48" height="48" alt="Java" />
         <br>Java
       </a>
     </td>
     <td align="center" width="96">
-      <a href="https://github.com/khushdiyora" target="_blank">
+      <a href="#" target="_blank">
         <img src="assets/AI-ML.png" width="48" height="48" alt="AI-ML" />
         <br>AI-ML
       </a>
     </td>
     <td align="center" width="96">
-      <a href="https://github.com/khushdiyora" target="_blank">
+      <a href="#" target="_blank">
         <img src="assets/aws.png" width="48" height="48" alt="AWS" />
         <br>AWS Basics
       </a>
     </td>
     <td align="center" width="96">
-      <a href="https://github.com/khushdiyora" target="_blank">
+      <a href="#" target="_blank">
         <img src="assets/django.png" width="48" height="48" alt="DJango" />
         <br>Django
       </a>
@@ -120,6 +120,7 @@
   </tr>
 </table>
 </div>
+
 
 
 <p align="center">
