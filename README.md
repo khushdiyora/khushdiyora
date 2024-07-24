@@ -81,8 +81,8 @@
       <br>AI-ML
     </td>
     <td align="center" width="96">
-      <img src="assets/python.png" width="48" height="48" alt="Appwrite" />
-      <br>Appwrite
+      <img src="assets/aws.png" width="48" height="48" alt="Appwrite" />
+      <br>AWS Basics
     </td>
     <td align="center" width="96">
       <img src="assets/python.png" width="48" height="48" alt="AWS" />
