@@ -61,16 +61,16 @@
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="assets/python.png" width="48" height="48" alt="Express.js" />
-      <br>Express.js
+      <img src="assets/html.png" width="48" height="48" alt="HTML" />
+      <br>HTML
     </td>
     <td align="center" width="96">
-      <img src="assets/python.png" width="48" height="48" alt="shadcn ui" />
-      <br>shadcn ui
+      <img src="assets/bootstrap.png" width="48" height="48" alt="Bootstrap" />
+      <br>Bootstrap
     </td>
     <td align="center" width="96">
-      <img src="assets/python.png" width="48" height="48" alt="Tailwind CSS" />
-      <br>Tailwind CSS
+      <img src="assets/js.png" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
     </td>
     <td align="center" width="96">
       <img src="assets/python.png" width="48" height="48" alt="React Flow" />
