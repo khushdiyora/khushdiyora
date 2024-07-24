@@ -31,97 +31,96 @@
 <div align="center">
    <table>
   <tr>
-    <a href="#" target="_blank">
     <td align="center" width="96">
-      <img src="assets/python.png" width="48" height="48" alt="Python" />
-      <br>Python
+      <a href="https://github.com/khushdiyora" target="_blank">
+        <img src="assets/python.png" width="48" height="48" alt="Python" />
+        <br>Python
+      </a>
     </td>
-    </a>
-    
-<a href="#" target="_blank">
     <td align="center" width="96">
-      <img src="assets/php-icon-2048x2048-zjxns1zh.png" width="48" height="48" alt="PHP" />
-      <br>PHP
+      <a href="https://github.com/khushdiyora" target="_blank">
+        <img src="assets/php-icon-2048x2048-zjxns1zh.png" width="48" height="48" alt="PHP" />
+        <br>PHP
+      </a>
     </td>
-</a>
-<a href="#" target="_blank">
     <td align="center" width="96">
-      <img src="assets/Sql_data_base_with_logo.png" width="48" height="60" alt="PL/SQL" />
-      <br>SQL
+      <a href="https://github.com/khushdiyora" target="_blank">
+        <img src="assets/Sql_data_base_with_logo.png" width="48" height="60" alt="PL/SQL" />
+        <br>SQL
+      </a>
     </td>
-</a>
-<a href="#" target="_blank">
     <td align="center" width="96">
-      <img src="assets/mysql.png" width="48" height="48" alt="MySQL" />
-      <br>MySQL
+      <a href="https://github.com/khushdiyora" target="_blank">
+        <img src="assets/mysql.png" width="48" height="48" alt="MySQL" />
+        <br>MySQL
+      </a>
     </td>
-</a>
-<a href="#" target="_blank">
     <td align="center" width="96">
-      <img src="assets/node-js.png" width="48" height="48" alt="Node.js" />
-      <br>Node.js
+      <a href="https://github.com/khushdiyora" target="_blank">
+        <img src="assets/node-js.png" width="48" height="48" alt="Node.js" />
+        <br>Node.js
+      </a>
     </td>
-</a>
-<a href="#" target="_blank">
     <td align="center" width="96">
-      <img src="assets/scss.png" width="48" height="48" alt="SCSS" />
-      <br>SCSS
+      <a href="https://github.com/khushdiyora" target="_blank">
+        <img src="assets/scss.png" width="48" height="48" alt="SCSS" />
+        <br>SCSS
+      </a>
     </td>
-</a>
-<a href="#" target="_blank">
     <td align="center" width="96">
-      <img src="assets/csss.png" width="48" height="48" alt="CSS" />
-      <br>CSS
+      <a href="https://github.com/khushdiyora" target="_blank">
+        <img src="assets/csss.png" width="48" height="48" alt="CSS" />
+        <br>CSS
+      </a>
     </td>
   </tr>
-</a>
   <tr>
-<a href="#" target="_blank">
     <td align="center" width="96">
-      <img src="assets/html5.png" width="48" height="48" alt="HTML" />
-      <br>HTML
+      <a href="https://github.com/khushdiyora" target="_blank">
+        <img src="assets/html5.png" width="48" height="48" alt="HTML" />
+        <br>HTML
+      </a>
     </td>
-</a>
-<a href="#" target="_blank">
     <td align="center" width="96">
-      <img src="assets/bootstrap.png" width="48" height="48" alt="Bootstrap" />
-      <br>Bootstrap
+      <a href="https://github.com/khushdiyora" target="_blank">
+        <img src="assets/bootstrap.png" width="48" height="48" alt="Bootstrap" />
+        <br>Bootstrap
+      </a>
     </td>
-</a>
-<a href="#" target="_blank">
     <td align="center" width="96">
-      <img src="assets/javascript.png" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
+      <a href="https://github.com/khushdiyora" target="_blank">
+        <img src="assets/javascript.png" width="48" height="48" alt="JavaScript" />
+        <br>JavaScript
+      </a>
     </td>
-</a>
-<a href="#" target="_blank">
     <td align="center" width="96">
-      <img src="assets/javaa.png" width="48" height="48" alt="Java" />
-      <br>Java
+      <a href="https://github.com/khushdiyora" target="_blank">
+        <img src="assets/javaa.png" width="48" height="48" alt="Java" />
+        <br>Java
+      </a>
     </td>
-</a>
-<a href="#" target="_blank">
     <td align="center" width="96">
-      <img src="assets/AI-ML.png" width="48" height="48" alt="AI-ML" />
-      <br>AI-ML
+      <a href="https://github.com/khushdiyora" target="_blank">
+        <img src="assets/AI-ML.png" width="48" height="48" alt="AI-ML" />
+        <br>AI-ML
+      </a>
     </td>
-</a>
-<a href="#" target="_blank">
     <td align="center" width="96">
-      <img src="assets/aws.png" width="48" height="48" alt="AWS" />
-      <br>AWS Basics
+      <a href="https://github.com/khushdiyora" target="_blank">
+        <img src="assets/aws.png" width="48" height="48" alt="AWS" />
+        <br>AWS Basics
+      </a>
     </td>
-</a>
-<a href="#" target="_blank">
     <td align="center" width="96">
-      <img src="assets/django.png" width="48" height="48" alt="DJango" />
-      <br>django
+      <a href="https://github.com/khushdiyora" target="_blank">
+        <img src="assets/django.png" width="48" height="48" alt="DJango" />
+        <br>Django
+      </a>
     </td>
-</a>
   </tr>
 </table>
-        
 </div>
+
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khushdiyora&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=transparent&hide=html,css,pug" alt="Top Languages" />
