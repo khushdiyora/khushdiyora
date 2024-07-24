@@ -31,68 +31,96 @@
 <div align="center">
    <table>
   <tr>
-        <a href="#" target="_blank">
+    <a href="#" target="_blank">
     <td align="center" width="96">
       <img src="assets/python.png" width="48" height="48" alt="Python" />
       <br>Python
     </td>
+    </a>
+    
+<a href="#" target="_blank">
     <td align="center" width="96">
       <img src="assets/php-icon-2048x2048-zjxns1zh.png" width="48" height="48" alt="PHP" />
       <br>PHP
     </td>
+</a>
+<a href="#" target="_blank">
     <td align="center" width="96">
       <img src="assets/Sql_data_base_with_logo.png" width="48" height="60" alt="PL/SQL" />
       <br>SQL
     </td>
+</a>
+<a href="#" target="_blank">
     <td align="center" width="96">
       <img src="assets/mysql.png" width="48" height="48" alt="MySQL" />
       <br>MySQL
     </td>
+</a>
+<a href="#" target="_blank">
     <td align="center" width="96">
       <img src="assets/node-js.png" width="48" height="48" alt="Node.js" />
       <br>Node.js
     </td>
+</a>
+<a href="#" target="_blank">
     <td align="center" width="96">
       <img src="assets/scss.png" width="48" height="48" alt="SCSS" />
       <br>SCSS
     </td>
+</a>
+<a href="#" target="_blank">
     <td align="center" width="96">
       <img src="assets/csss.png" width="48" height="48" alt="CSS" />
       <br>CSS
     </td>
   </tr>
+</a>
   <tr>
+<a href="#" target="_blank">
     <td align="center" width="96">
       <img src="assets/html5.png" width="48" height="48" alt="HTML" />
       <br>HTML
     </td>
+</a>
+<a href="#" target="_blank">
     <td align="center" width="96">
       <img src="assets/bootstrap.png" width="48" height="48" alt="Bootstrap" />
       <br>Bootstrap
     </td>
+</a>
+<a href="#" target="_blank">
     <td align="center" width="96">
       <img src="assets/javascript.png" width="48" height="48" alt="JavaScript" />
       <br>JavaScript
     </td>
+</a>
+<a href="#" target="_blank">
     <td align="center" width="96">
       <img src="assets/javaa.png" width="48" height="48" alt="Java" />
       <br>Java
     </td>
+</a>
+<a href="#" target="_blank">
     <td align="center" width="96">
       <img src="assets/AI-ML.png" width="48" height="48" alt="AI-ML" />
       <br>AI-ML
     </td>
+</a>
+<a href="#" target="_blank">
     <td align="center" width="96">
       <img src="assets/aws.png" width="48" height="48" alt="AWS" />
       <br>AWS Basics
     </td>
+</a>
+<a href="#" target="_blank">
     <td align="center" width="96">
       <img src="assets/django.png" width="48" height="48" alt="DJango" />
       <br>django
     </td>
+</a>
   </tr>
 </table>
-        </a>
+        
 </div>
 
 <p align="center">
