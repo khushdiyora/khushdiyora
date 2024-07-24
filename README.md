@@ -32,89 +32,89 @@
    <table>
   <tr>
     <td align="center" width="96">
-      <a href="#" target="_blank">
+      <a href="#" target="_blank" style="text-decoration: none;">
         <img src="assets/python.png" width="48" height="48" alt="Python" />
-        <br>Python
+        <br><span style="color: white;">Python</span>
       </a>
     </td>
     <td align="center" width="96">
-      <a href="#" target="_blank">
+      <a href="#" target="_blank" style="text-decoration: none;">
         <img src="assets/php-icon-2048x2048-zjxns1zh.png" width="48" height="48" alt="PHP" />
-        <br>PHP
+        <br><span style="color: white;">PHP</span>
       </a>
     </td>
     <td align="center" width="96">
-      <a href="#" target="_blank">
+      <a href="#" target="_blank" style="text-decoration: none;">
         <img src="assets/Sql_data_base_with_logo.png" width="48" height="60" alt="PL/SQL" />
-        <br>SQL
+        <br><span style="color: white;">SQL</span>
       </a>
     </td>
     <td align="center" width="96">
-      <a href="#" target="_blank">
+      <a href="#" target="_blank" style="text-decoration: none;">
         <img src="assets/mysql.png" width="48" height="48" alt="MySQL" />
-        <br>MySQL
+        <br><span style="color: white;">MySQL</span>
       </a>
     </td>
     <td align="center" width="96">
-      <a href="#" target="_blank">
+      <a href="#" target="_blank" style="text-decoration: none;">
         <img src="assets/node-js.png" width="48" height="48" alt="Node.js" />
-        <br>Node.js
+        <br><span style="color: white;">Node.js</span>
       </a>
     </td>
     <td align="center" width="96">
-      <a href="#" target="_blank">
+      <a href="#" target="_blank" style="text-decoration: none;">
         <img src="assets/scss.png" width="48" height="48" alt="SCSS" />
-        <br>SCSS
+        <br><span style="color: white;">SCSS</span>
       </a>
     </td>
     <td align="center" width="96">
-      <a href="#" target="_blank">
+      <a href="#" target="_blank" style="text-decoration: none;">
         <img src="assets/csss.png" width="48" height="48" alt="CSS" />
-        <br>CSS
+        <br><span style="color: white;">CSS</span>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <a href="#" target="_blank">
+      <a href="#" target="_blank" style="text-decoration: none;">
         <img src="assets/html5.png" width="48" height="48" alt="HTML" />
-        <br>HTML
+        <br><span style="color: white;">HTML</span>
       </a>
     </td>
     <td align="center" width="96">
-      <a href="#" target="_blank">
+      <a href="#" target="_blank" style="text-decoration: none;">
         <img src="assets/bootstrap.png" width="48" height="48" alt="Bootstrap" />
-        <br>Bootstrap
+        <br><span style="color: white;">Bootstrap</span>
       </a>
     </td>
     <td align="center" width="96">
-      <a href="#" target="_blank">
+      <a href="#" target="_blank" style="text-decoration: none;">
         <img src="assets/javascript.png" width="48" height="48" alt="JavaScript" />
-        <br>JavaScript
+        <br><span style="color: white;">JavaScript</span>
       </a>
     </td>
     <td align="center" width="96">
-      <a href="#" target="_blank">
+      <a href="#" target="_blank" style="text-decoration: none;">
         <img src="assets/javaa.png" width="48" height="48" alt="Java" />
-        <br>Java
+        <br><span style="color: white;">Java</span>
       </a>
     </td>
     <td align="center" width="96">
-      <a href="#" target="_blank">
+      <a href="#" target="_blank" style="text-decoration: none;">
         <img src="assets/AI-ML.png" width="48" height="48" alt="AI-ML" />
-        <br>AI-ML
+        <br><span style="color: white;">AI-ML</span>
       </a>
     </td>
     <td align="center" width="96">
-      <a href="#" target="_blank">
+      <a href="#" target="_blank" style="text-decoration: none;">
         <img src="assets/aws.png" width="48" height="48" alt="AWS" />
-        <br>AWS Basics
+        <br><span style="color: white;">AWS Basics</span>
       </a>
     </td>
     <td align="center" width="96">
-      <a href="#" target="_blank">
+      <a href="#" target="_blank" style="text-decoration: none;">
         <img src="assets/django.png" width="48" height="48" alt="DJango" />
-        <br>Django
+        <br><span style="color: white;">Django</span>
       </a>
     </td>
   </tr>
