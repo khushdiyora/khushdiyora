@@ -6,6 +6,12 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Artificial%20Intelligence;Machine%20Learning;Deep%20Learning;FrontEnd%20Development;Data%20Science;Computer%20Vision&font=Fira%20Code&center=true&width=380&height=50&duration=1000&pause=1000&color=#6A5ACD" alt="Interests">
 </p>
 
+<p align="center">
+    <a href="#" target="_blank">
+        <img alt="Coding" width="300" height="auto" src="assets/khush.gif" style="border-radius: 15px; border: 2px solid #000;" />
+    </a>
+</p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khushdiyora" alt="khushdiyora" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/khushh_d" target="blank"><img src="https://img.shields.io/twitter/follow/khushh_d?logo=twitter&style=for-the-badge" alt="khushh_d" /></a> </p>
