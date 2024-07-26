@@ -1,138 +1,40 @@
-<p align="center">
-    <a href="https://github.com/khushdiyora" target="_blank">
-        <img alt="logo" width="100" height="auto" src="assets/khush.png" />
-    </a>
-</p>
-<h1 align="center" style="color: white;">Khush Diyora</h1>
-<h3 align="center" style="color: white;">Computer Engineer</h3>
+<h1 align="center">Hi 👋, I'm Khush Diyora</h1>
+<h3 align="center">A passionate Software Engineer from Bharat</h3>
 
-<p align="center">
-    <a href="#" target="_blank">
-        <img alt="Coding" width="300" height="auto" src="assets/khush.gif" style="border-radius: 15px; border: 2px solid #000;" />
-    </a>
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khushdiyora&label=Profile%20views&color=0e75b6&style=flat" alt="khushdiyora" /> </p>
 
-<h3 align="center" style="color: white;">My Interests</h3>
-<p align="center" style="color: white;">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Artificial%20Intelligence;Machine%20Learning;Deep%20Learning;FrontEnd%20Development;Data%20Science;Computer%20Vision&font=Fira%20Code&center=true&width=380&height=50&duration=1000&pause=1000&color=#6A5ACD" alt="Interests">
-</p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khushdiyora" alt="khushdiyora" /></a> </p>
 
-<p align="center" style="color: white;">
-  <a href="https://github.com/khushdiyora">
-    <img src="assets/contributions.svg" />
-  </a>
-</p>
+<p align="left"> <a href="https://twitter.com/khushh.d" target="blank"><img src="https://img.shields.io/twitter/follow/khushh.d?logo=twitter&style=for-the-badge" alt="khushh.d" /></a> </p>
 
-<p align="center" style="color: white;">Currently working on - Private Projects</p>
-<p align="center" style="color: white;">Currently learning - Artificial Intelligence and Machine Learning</p>
+- 🔭 I’m currently working on **Private Projects**
 
-<h3 align="center" style="color: white;">Languages in which I work</h3>
-<br>
-<div align="center">
-   <table>
-  <tr>
-    <td align="center" width="96">
-        <img src="assets/python.png" width="48" height="48" alt="Python" />
-        <br><span style="color: white;">Python</span>
-    </td>
-    <td align="center" width="96">
-        <img src="assets/php-icon-2048x2048-zjxns1zh.png" width="48" height="48" alt="PHP" />
-        <br><span style="color: white;">PHP</span>
-    </td>
-    <td align="center" width="96">
-        <img src="assets/Sql_data_base_with_logo.png" width="48" height="60" alt="PL/SQL" />
-        <br><span style="color: white;">SQL</span>
-    </td>
-    <td align="center" width="96">
-        <img src="assets/mysql.png" width="48" height="48" alt="MySQL" />
-        <br><span style="color: white;">MySQL</span>
-    </td>
-    <td align="center" width="96">
-        <img src="assets/node-js.png" width="48" height="48" alt="Node.js" />
-        <br><span style="color: white;">Node.js</span>
-    </td>
-    <td align="center" width="96">
-        <img src="assets/scss.png" width="48" height="48" alt="SCSS" />
-        <br><span style="color: white;">SCSS</span>
-    </td>
-    <td align="center" width="96">
-        <img src="assets/csss.png" width="48" height="48" alt="CSS" />
-        <br><span style="color: white;">CSS</span>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-        <img src="assets/html5.png" width="48" height="48" alt="HTML" />
-        <br><span style="color: white;">HTML</span>
-    </td>
-    <td align="center" width="96">
-        <img src="assets/bootstrap.png" width="48" height="48" alt="Bootstrap" />
-        <br><span style="color: white;">Bootstrap</span>
-    </td>
-    <td align="center" width="96">
-        <img src="assets/javascript.png" width="48" height="48" alt="JavaScript" />
-        <br><span style="color: white;">JavaScript</span>
-    </td>
-    <td align="center" width="96">
-        <img src="assets/javaa.png" width="48" height="48" alt="Java" />
-        <br><span style="color: white;">Java</span>
-    </td>
-    <td align="center" width="96">
-        <img src="assets/AI-ML.png" width="48" height="48" alt="AI-ML" />
-        <br><span style="color: white;">AI-ML</span>
-    </td>
-    <td align="center" width="96">
-        <img src="assets/aws.png" width="48" height="48" alt="AWS" />
-        <br><span style="color: white;">AWS Basics</span>
-    </td>
-    <td align="center" width="96">
-        <img src="assets/django.png" width="48" height="48" alt="DJango" />
-        <br><span style="color: white;">Django</span>
-    </td>
-  </tr>
-</table>
-</div>
+- 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
 
+- 🤝 I’m looking for help with **AI & ML Engineer**
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khushdiyora&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=transparent&hide=html,css,pug" alt="Top Languages" />
-</p>
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=khushdiyora&hide_border=true&theme=transparent" alt="Streak Stats" />
+- 👨‍💻 All of my projects are available at [#](#)
+
+- 📝 I regularly write articles on [#](#)
+
+- 📫 How to reach me **khushdiyora55@gmail.com**
+
+- 📄 Know about my experiences [#](#)
+
+- ⚡ Fun fact **I think i am Desperate**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/khushh.d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="khushh.d" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/khushdiyora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khushdiyora" height="30" width="40" /></a>
+<a href="https://instagram.com/khushh.d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khushh.d" height="30" width="40" /></a>
 </p>
 
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=khushdiyora&no-bg=true&no-frame=true&title=-Reviews,-PullRequest&row=2&column=3" alt="Trophies" />
-</div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.perl.org/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-perl.svg" alt="perl" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-<div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=khushdiyora&theme=transparent" height="180em" alt="Stats Card" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khushdiyora&theme=transparent&exclude=CSS,Jupyter%20Notebook" height="180em" alt="Most Commit Languages" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khushdiyora&theme=transparent&exclude=CSS,Jupyter%20Notebook" height="180em" alt="Repos Per Language" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khushdiyora&theme=transparent&utcOffset=5.30" height="180em" alt="Productive Time" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khushdiyora&theme=transparent" height="180em" alt="Profile Details" />
-</div>
-<br>
-<br>
-<p align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="Random Dev Quote" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khushdiyora&show_icons=true&locale=en&layout=compact" alt="khushdiyora" /></p>
 
-<h3 align="center" style="color: white;">Connect with Me</h3>
-<p align="center">
-    <a href="mailto:khushdiyora55@gmail.com" target="_blank">
-        <img src="assets/gmail.png" alt="Gmail" height="30" width="30" style="border-radius: 50%;" />
-    </a>&nbsp;&nbsp;&nbsp;
-    <a href="https://linkedin.com/in/khushdiyora/" target="_blank">
-        <img src="assets/linkedin.png" alt="LinkedIn" height="30" width="30" style="border-radius: 50%;" />
-    </a>
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khushdiyora&show_icons=true&locale=en" alt="khushdiyora" /></p>
 
-<br>
-<p align="center"> 
-Visitor Count<br>
-    <br>
-  <img src="https://profile-counter.glitch.me/khushdiyora/count.svg"/>
-<p align="center">
-    <img src="https://github.com/user-attachments/assets/bdcbaae8-8fe2-43cf-8047-4cec63f94f98" alt="Additional Image" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khushdiyora&" alt="khushdiyora" /></p>
