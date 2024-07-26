@@ -6,11 +6,6 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Artificial%20Intelligence;Machine%20Learning;Deep%20Learning;FrontEnd%20Development;Data%20Science;Computer%20Vision&font=Fira%20Code&center=true&width=380&height=50&duration=1000&pause=1000&color=#6A5ACD" alt="Interests">
 </p>
 
-<p align="center" style="color: white;">
-  <a href="https://github.com/khushdiyora">
-    <img src="assets/contributions.svg" />
-  </a>
-</p>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khushdiyora" alt="khushdiyora" /></a> </p>
