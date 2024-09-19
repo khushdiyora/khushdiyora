@@ -17,6 +17,29 @@ Please get in touch with me if you need help with any tasks!
 <br>
 
 ## <img height="25px" src="https://github.com/user-attachments/assets/8239fae7-d395-44bf-98bb-410d9532df56" /> Projects
+<details>
+<summary>
+Websites
+</summary>
+ 
+- [Portfolio Website](https://khushdiyora.netlify.app)
+- [Arabica Coffee Company - Dubai](http://arabicacafe.infinityfreeapp.com/)
+- [VitalBlood Network](http://vitalbloodnetwork.infinityfreeapp.com/)
+ </details>
+  
+ <details>
+<summary>
+Python Scripts / Apps
+</summary>
+  
+- [BMI Calculator - Flask server)]([https://gaia.khushdiyora.com](https://github.com/khushdiyora/OIB-PYTHON/tree/main/BMI))
+- [Weather Application - Flask server](https://github.com/khushdiyora/OIB-PYTHON/tree/main/Weather%20app)
+- [Eye Control Mouse](https://github.com/khushdiyora/eye-control-mouse-OpenCv2)
+- [Social Distance Monitoring For COVID 19]([https://khushdiyora.com/Project?id=2_project_Spotify_Tools_1712173676155](https://github.com/khushdiyora/Social-Distance-Monitoring-for-COVID-19-OpenCv2))
+- [Breast Cancer Predection]([https://github.com/khushdiyora/SimpleYouTubeDownloader](https://github.com/khushdiyora/Breast-cancer-Prediction))
+ </details>
+
+<br>
 <br>
 
 ## <img height="25px" src="https://github.com/user-attachments/assets/5d61e046-1ffc-4c58-916f-d2652b4388d3" /> Socials
