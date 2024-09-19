@@ -1,7 +1,7 @@
 [![](https://github.com/khushdiyora/khushdiyora/assets/64796509/91f50587-e41b-4afa-88c6-fba6e62919ce)](https://khushdiyora.com)
 <br>
 
-# Hello World! &nbsp;<img src="https://github.com/khushdiyora/khushdiyora/assets/64796509/710e2c34-fb64-46db-8bbf-450c00dabe70" width=40px>  <img src="https://komarev.com/ghpvc/?username=khushdiyora&color=00bbff&style=flat-square&abbreviated=true" align="right" height="30px">
+# Hello World! &nbsp;<img src="https://github.com/khushdiyora/khushd/blob/main/5Tz.gif" width=40px>  <img src="https://komarev.com/ghpvc/?username=khushdiyora&color=00bbff&style=flat-square&abbreviated=true" align="right" height="30px">
 
 I'm a tech fanatic that loves computers, technology, and learning new things. I work as a software developer.
 Please get in touch with me if you need help with any tasks!
