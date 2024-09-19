@@ -26,14 +26,10 @@ Feel free to connect with me to work on any projects!
 <a href="https://khushdiyora.netlify.app"><img  height="45px" width="45px" src="https://github.com/khushdiyora/khushdiyora/assets/64796509/c7399a2e-ed5a-4cf0-bc2b-04d4665e981e" /></a>
 [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://linkedin.com/in/khushdiyora)
 [![My Skills](https://skillicons.dev/icons?i=twitter&theme=dark)](https://twitter.com/khushh_d)
-[![My Skills](https://skillicons.dev/icons?i=discord&theme=dark)](https://discord.com/users/521279231284609032)
-
 <a href="https://behance.net/khushdiyora"><img  height="50px" width="50px" src="https://github.com/user-attachments/assets/e555219a-6fba-4ecc-9d59-dcff7b44f770" /></a>
-[![My Skills](https://skillicons.dev/icons?i=instagram&theme=dark)](https://instagram.com/khushdiyora)
-<a href="https://monkeytype.com/profile/khushdiyora"><img height="55px" src="https://github.com/user-attachments/assets/2ad8f48b-7d28-44d2-abc6-2814248883fb" /></a>&ensp;
+[![My Skills](https://skillicons.dev/icons?i=instagram&theme=dark)](https://instagram.com/khushh.d)
 <br>
 <br>
-<a href="https://discord.com/users/521279231284609032"> <img src="https://lanyard.cnrad.dev/api/521279231284609032" width=35% > </a>
 <br>
 
 </p>
