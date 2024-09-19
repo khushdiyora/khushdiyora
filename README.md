@@ -36,7 +36,7 @@ Python Scripts / Apps
 - [Weather Application - Flask server](https://github.com/khushdiyora/OIB-PYTHON/tree/main/Weather%20app)
 - [Eye Control Mouse](https://github.com/khushdiyora/eye-control-mouse-OpenCv2)
 - [Social Distance Monitoring For COVID 19](https://khushdiyora.com/Project?id=2_project_Spotify_Tools_1712173676155](https://github.com/khushdiyora/Social-Distance-Monitoring-for-COVID-19-OpenCv2))
-- [Breast Cancer Predection](https://github.com/khushdiyora/SimpleYouTubeDownloader](https://github.com/khushdiyora/Breast-cancer-Prediction))
+- [Breast Cancer Predection](https://github.com/khushdiyora/Breast-cancer-Prediction)
  </details>
 
 <br>
